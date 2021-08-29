@@ -413,3 +413,422 @@ Received Import Request.
 Start importing Assets/_Project/Art/3D model/Mixamo 3D character/passive_marker_man.fbx using Guid(aaf2a9ca559e4864cb5dcbc88179a10e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '676f4b646d17693aa329c3ed8cfeb325') in 0.152380 seconds 
   Import took 0.158065 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 791.814048 seconds.
+  path: Assets/_Project/Art/Animatrions
+  artifactKey: Guid(e8dbce449e3e88842b06f64ddcf8545d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions using Guid(e8dbce449e3e88842b06f64ddcf8545d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e16a0cefc9d95e8f3a29acab1db3b26f') in 0.008785 seconds 
+  Import took 0.012273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.672232 seconds.
+  path: Assets/_Project/Art/Animatrions/Adventure character
+  artifactKey: Guid(3bb6cdbf836e7f74aa824b6bba12eb32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Adventure character using Guid(3bb6cdbf836e7f74aa824b6bba12eb32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d3d452e3717cc36c5b62078f62eba5f') in 0.010766 seconds 
+  Import took 0.015441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000630 seconds.
+  path: Assets/_Project/Art/Animatrions/Adventure character
+  artifactKey: Guid(3bb6cdbf836e7f74aa824b6bba12eb32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Adventure character using Guid(3bb6cdbf836e7f74aa824b6bba12eb32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d3d452e3717cc36c5b62078f62eba5f') in 0.002493 seconds 
+  Import took 0.008656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.963647 seconds.
+  path: Assets/_Project/Art/Animatrions/Mixamo 3d model
+  artifactKey: Guid(3bb6cdbf836e7f74aa824b6bba12eb32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Mixamo 3d model using Guid(3bb6cdbf836e7f74aa824b6bba12eb32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '199dae0ee3a0900a82c0c3d30e6a9f5c') in 0.007396 seconds 
+  Import took 0.010434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.165076 seconds.
+  path: Assets/_Project/Art/Animatrions/Mixamo 3d model/Crouch Idle.fbx
+  artifactKey: Guid(bfc899ae6d9fe534692d543f68144f44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Mixamo 3d model/Crouch Idle.fbx using Guid(bfc899ae6d9fe534692d543f68144f44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19fa9ea6ec7c02f3007b4cbc351dcc7b') in 0.010846 seconds 
+  Import took 0.014501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/_Project/Art/Animatrions/Mixamo 3d model/Walking.fbx
+  artifactKey: Guid(7f766bf8bc092ac4b8fe6e57974a8763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Mixamo 3d model/Walking.fbx using Guid(7f766bf8bc092ac4b8fe6e57974a8763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ecce7993de966d2605c1d2af039e2b4') in 0.010344 seconds 
+  Import took 0.013089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/_Project/Art/Animatrions/Mixamo 3d model/Running.fbx
+  artifactKey: Guid(260ccf917632cc64796ce84fb6f0d9fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Mixamo 3d model/Running.fbx using Guid(260ccf917632cc64796ce84fb6f0d9fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd052ef2902497c61bf5ae8b1f1ace9fa') in 0.011536 seconds 
+  Import took 0.015706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000547 seconds.
+  path: Assets/_Project/Art/Animatrions/Mixamo 3d model/Crouch To Stand.fbx
+  artifactKey: Guid(42936043975e27f4c84b42d8e9326e6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Mixamo 3d model/Crouch To Stand.fbx using Guid(42936043975e27f4c84b42d8e9326e6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '729f6797b2a0ee74b01ee7193455a4a6') in 0.011872 seconds 
+  Import took 0.014946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 129.942430 seconds.
+  path: Assets/_Project/Art/Animatrions/Mixamo 3d model/Crouch Idle.fbx
+  artifactKey: Guid(bfc899ae6d9fe534692d543f68144f44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Mixamo 3d model/Crouch Idle.fbx using Guid(bfc899ae6d9fe534692d543f68144f44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b25c0ec92bb63a9ad695a10512bc6d04') in 0.010323 seconds 
+  Import took 0.017641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1553.150104 seconds.
+  path: Assets/_Project/Art/Animatrions/Animators
+  artifactKey: Guid(7b398e93a886bc541b0c5af4721d861d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Animators using Guid(7b398e93a886bc541b0c5af4721d861d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ead8f9f7df51a92f4500866dca537cb') in 0.008189 seconds 
+  Import took 0.011787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.053015 seconds.
+  path: Assets/_Project/Art/Animatrions/Animators/CharacterAnimator.controller
+  artifactKey: Guid(f6985e89b35114d42bf703408c15766a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Animators/CharacterAnimator.controller using Guid(f6985e89b35114d42bf703408c15766a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4ca5b5339757735332743be3bce917a') in 0.011734 seconds 
+  Import took 0.015458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002025 seconds.
+  path: Assets/_Project/Art/Animatrions/Animators/CharacterAnimator.controller
+  artifactKey: Guid(f6985e89b35114d42bf703408c15766a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Animators/CharacterAnimator.controller using Guid(f6985e89b35114d42bf703408c15766a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4ca5b5339757735332743be3bce917a') in 0.002541 seconds 
+  Import took 0.006580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 120.407410 seconds.
+  path: Assets/_Project/Art/Animatrions/Mixamo 3d model/Idle.fbx
+  artifactKey: Guid(87a2460cbcde7984eb116c3b5cf0861f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Mixamo 3d model/Idle.fbx using Guid(87a2460cbcde7984eb116c3b5cf0861f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8e3fb8803d4ba165cf5e125949368d8') in 0.019055 seconds 
+  Import took 0.025025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.404770 seconds.
+  path: Assets/_Project/Art/Animatrions/Mixamo 3d model/Idle.fbx
+  artifactKey: Guid(87a2460cbcde7984eb116c3b5cf0861f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Mixamo 3d model/Idle.fbx using Guid(87a2460cbcde7984eb116c3b5cf0861f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e7b9c9e9ef361d9ea665495ed3e270a') in 0.008057 seconds 
+  Import took 0.012922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.484383 seconds.
+  path: Assets/_Project/Art/Animatrions/Mixamo 3d model/Running.fbx
+  artifactKey: Guid(260ccf917632cc64796ce84fb6f0d9fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Mixamo 3d model/Running.fbx using Guid(260ccf917632cc64796ce84fb6f0d9fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b127b549b51e9e646fea349255faea6b') in 0.007171 seconds 
+  Import took 0.010531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.475742 seconds.
+  path: Assets/_Project/Art/Animatrions/Mixamo 3d model/Walking.fbx
+  artifactKey: Guid(7f766bf8bc092ac4b8fe6e57974a8763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Mixamo 3d model/Walking.fbx using Guid(7f766bf8bc092ac4b8fe6e57974a8763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0205a0254f21d44969650c7bde937607') in 0.006616 seconds 
+  Import took 0.010760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.366626 seconds.
+  path: Assets/_Project/Art/Animatrions/Mixamo 3d model/Crouch Idle.fbx
+  artifactKey: Guid(bfc899ae6d9fe534692d543f68144f44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Mixamo 3d model/Crouch Idle.fbx using Guid(bfc899ae6d9fe534692d543f68144f44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ad2e4fa5dd45dce207a8fd4ae928048') in 0.014920 seconds 
+  Import took 0.019259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.398085 seconds.
+  path: Assets/_Project/Art/Animatrions/Mixamo 3d model/Crouch To Stand.fbx
+  artifactKey: Guid(42936043975e27f4c84b42d8e9326e6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Mixamo 3d model/Crouch To Stand.fbx using Guid(42936043975e27f4c84b42d8e9326e6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd695adcf1a8c3d16e85500d20c6c3233') in 0.007631 seconds 
+  Import took 0.011069 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004901 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.051 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1531 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.7 MB.
+System memory in use after: 86.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2019.
+Total: 1.844200 ms (FindLiveObjects: 0.156000 ms CreateObjectMapping: 0.041400 ms MarkObjects: 1.631200 ms  DeleteObjects: 0.014400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 98.062568 seconds.
+  path: Assets/_Project/Art/Animatrions/Mixamo 3d model/Idle.fbx
+  artifactKey: Guid(87a2460cbcde7984eb116c3b5cf0861f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Mixamo 3d model/Idle.fbx using Guid(87a2460cbcde7984eb116c3b5cf0861f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b13bb85c2f1584d739c740057ce162b1') in 0.025344 seconds 
+  Import took 0.027911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.436796 seconds.
+  path: Assets/_Project/Art/Animatrions/Mixamo 3d model/Running.fbx
+  artifactKey: Guid(260ccf917632cc64796ce84fb6f0d9fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Mixamo 3d model/Running.fbx using Guid(260ccf917632cc64796ce84fb6f0d9fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60e75afbd69cadf21fd5efb2cb30d49a') in 0.007427 seconds 
+  Import took 0.011558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.510450 seconds.
+  path: Assets/_Project/Art/Animatrions/Mixamo 3d model/Walking.fbx
+  artifactKey: Guid(7f766bf8bc092ac4b8fe6e57974a8763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Mixamo 3d model/Walking.fbx using Guid(7f766bf8bc092ac4b8fe6e57974a8763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dade7d057a73a5f5625308255845e3c') in 0.007118 seconds 
+  Import took 0.010194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.061326 seconds.
+  path: Assets/_Project/Art/Animatrions/Mixamo 3d model/Crouch To Stand.fbx
+  artifactKey: Guid(42936043975e27f4c84b42d8e9326e6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Mixamo 3d model/Crouch To Stand.fbx using Guid(42936043975e27f4c84b42d8e9326e6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '523a3445e054f347fcbaa99cb8da33d9') in 0.005589 seconds 
+  Import took 0.008748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001153 seconds.
+  path: Assets/_Project/Art/Animatrions/Mixamo 3d model/Crouch To Stand.fbx
+  artifactKey: Guid(42936043975e27f4c84b42d8e9326e6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Mixamo 3d model/Crouch To Stand.fbx using Guid(42936043975e27f4c84b42d8e9326e6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '523a3445e054f347fcbaa99cb8da33d9') in 0.005868 seconds 
+  Import took 0.009243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.486410 seconds.
+  path: Assets/_Project/Art/Animatrions/Mixamo 3d model/Crouch Idle.fbx
+  artifactKey: Guid(bfc899ae6d9fe534692d543f68144f44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Mixamo 3d model/Crouch Idle.fbx using Guid(bfc899ae6d9fe534692d543f68144f44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc8ae4b76c9bb6608cd90087a52941f8') in 0.008140 seconds 
+  Import took 0.011757 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003515 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.021 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1531 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.7 MB.
+System memory in use after: 86.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2021.
+Total: 2.094900 ms (FindLiveObjects: 0.159000 ms CreateObjectMapping: 0.040700 ms MarkObjects: 1.878500 ms  DeleteObjects: 0.015500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003240 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.043 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1531 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.7 MB.
+System memory in use after: 86.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2023.
+Total: 1.839300 ms (FindLiveObjects: 0.134900 ms CreateObjectMapping: 0.043900 ms MarkObjects: 1.642000 ms  DeleteObjects: 0.017500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004248 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.525 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1531 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.7 MB.
+System memory in use after: 86.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2025.
+Total: 2.676600 ms (FindLiveObjects: 0.193400 ms CreateObjectMapping: 0.057600 ms MarkObjects: 2.405400 ms  DeleteObjects: 0.018700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003291 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.049 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1531 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.7 MB.
+System memory in use after: 86.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2027.
+Total: 1.810800 ms (FindLiveObjects: 0.157800 ms CreateObjectMapping: 0.054000 ms MarkObjects: 1.545900 ms  DeleteObjects: 0.051800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006071 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.596 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1531 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.7 MB.
+System memory in use after: 86.9 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2029.
+Total: 1.813800 ms (FindLiveObjects: 0.145600 ms CreateObjectMapping: 0.046000 ms MarkObjects: 1.607100 ms  DeleteObjects: 0.014300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1756.989270 seconds.
+  path: Assets/_Project/Art/Animatrions/Mixamo 3d model/Right Strafe.fbx
+  artifactKey: Guid(0e6d2d448e879e941a0bb731af82eac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Mixamo 3d model/Right Strafe.fbx using Guid(0e6d2d448e879e941a0bb731af82eac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2198b184416419fcc3c737abf8902ba0') in 0.045891 seconds 
+  Import took 0.050442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.247803 seconds.
+  path: Assets/_Project/Art/Animatrions/Mixamo 3d model/Right Strafe Walking.fbx
+  artifactKey: Guid(fe8c4e554a94ee241a8fb46a12d6f03c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Mixamo 3d model/Right Strafe Walking.fbx using Guid(fe8c4e554a94ee241a8fb46a12d6f03c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a5698952216203b1903a40876411998') in 0.012252 seconds 
+  Import took 0.016614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011664 seconds.
+  path: Assets/_Project/Art/Animatrions/Mixamo 3d model/Right Strafe Walking.fbx
+  artifactKey: Guid(fe8c4e554a94ee241a8fb46a12d6f03c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Mixamo 3d model/Right Strafe Walking.fbx using Guid(fe8c4e554a94ee241a8fb46a12d6f03c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a5698952216203b1903a40876411998') in 0.008021 seconds 
+  Import took 0.011745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.266157 seconds.
+  path: Assets/_Project/Art/Animatrions/Mixamo 3d model/Left Strafe Walking.fbx
+  artifactKey: Guid(258029ff032c88f49a6dc2dd17e760e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Mixamo 3d model/Left Strafe Walking.fbx using Guid(258029ff032c88f49a6dc2dd17e760e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4ed475d68b8938e212461a8f0cbdcfa') in 0.009932 seconds 
+  Import took 0.014087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.525891 seconds.
+  path: Assets/_Project/Art/Animatrions/Mixamo 3d model/Strafes
+  artifactKey: Guid(13d627623cd738f45a54ec2d434b5676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Mixamo 3d model/Strafes using Guid(13d627623cd738f45a54ec2d434b5676) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75b16712c969a54716d83ad0a16fd0fe') in 0.007232 seconds 
+  Import took 0.010644 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
