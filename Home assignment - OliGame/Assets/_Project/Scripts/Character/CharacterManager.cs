@@ -7,52 +7,30 @@ namespace HomeAssignment
     {
         [SerializeField] private float _speed;
         private CharacterMovement _movement;
+        private CharacterAnimation _animation;
         private IUnityService _unityService;
-
-        private Animator _animator;
 
         private void Start()
         {
-            _animator = GetComponentInChildren<Animator>();
+            _unityService = new UnityService();
             _movement = new CharacterMovement(_speed);
-            if (_unityService == null)
-                _unityService = new UnityService();
-
-
+            _animation = new CharacterAnimation(GetComponentInChildren<Animator>());
         }
 
         private void Update()
         {
-            HandleWalking();
+            _animation.Handle(_unityService.GetAxis("Horizontal"), _unityService.GetAxis("Vertical"));
 
-            transform.Translate(_movement.Calculate(
-                _unityService.GetAxisRaw("Horizontal"),
-                _unityService.GetAxisRaw("Vertical"),
-                _unityService.GetDeltaTime()));
+            if (Input.GetKey(KeyCode.LeftControl)) return;
+            transform.Translate(GetMoveAmount());
         }
 
-        private void HandleWalking()
+        private Vector3 GetMoveAmount()
         {
-            if (Input.GetKey(KeyCode.W))
-            {
-                _animator.SetBool("IsWalk", true);
-
-                HandleRunning();
-                return;
-            }
-
-            _animator.SetBool("IsWalk", false);
-        }
-
-        private void HandleRunning()
-        {
-            if (Input.GetKey(KeyCode.LeftShift))
-            {
-                _animator.SetBool("IsRun", true);
-                return;
-            }
-
-            _animator.SetBool("IsRun", false);
+            return _movement.Calculate(
+                _unityService.GetAxis("Horizontal"),
+                _unityService.GetAxis("Vertical"),
+                _unityService.GetDeltaTime());
         }
     }
 }

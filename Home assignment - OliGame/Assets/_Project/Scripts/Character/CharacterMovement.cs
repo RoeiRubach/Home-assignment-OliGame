@@ -6,17 +6,26 @@ namespace HomeAssignment
     {
         private float _speed;
 
-        public CharacterMovement(float speed)
-        {
-            _speed = speed;
-        }
+        public CharacterMovement(float speed) => _speed = speed;
 
         public Vector3 Calculate(float horizontal, float vertical, float deltaTime)
         {
-            var x = horizontal * _speed * deltaTime;
-            var z = vertical * _speed * deltaTime;
+            Vector3 input = new Vector3(horizontal, 0, vertical);
+            Vector3 direction = input.normalized;
+            Vector3 velocity = direction * GetMultipliedSpeedIfRunning();
+            Vector3 moveAmount = velocity * Time.deltaTime;
 
-            return new Vector3(x, 0, z);
+            return moveAmount;
+        }
+
+        private float GetMultipliedSpeedIfRunning()
+        {
+            if (Input.GetKey(KeyCode.S)) return _speed;
+
+            if (Input.GetKey(KeyCode.LeftShift))
+                return _speed * 2;
+
+            return _speed;
         }
     }
 }

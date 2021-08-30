@@ -4,7 +4,7 @@ namespace HomeAssignment
 {
     public class UnityService : IUnityService
     {
-        public float GetAxisRaw(string axisName) => Input.GetAxisRaw(axisName);
+        public float GetAxis(string axisName) => Input.GetAxis(axisName);
 
         public float GetDeltaTime() => Time.deltaTime;
     }
