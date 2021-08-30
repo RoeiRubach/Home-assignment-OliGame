@@ -8,22 +8,23 @@ namespace HomeAssignment
 
         public CharacterMovement(float speed) => _speed = speed;
 
-        public Vector3 Calculate(float horizontal, float vertical, float deltaTime)
+        public Vector3 Move(float vertical, float deltaTime)
         {
-            Vector3 input = new Vector3(horizontal, 0, vertical);
+            Vector3 input = new Vector3(0, 0, vertical);
             Vector3 direction = input.normalized;
-            Vector3 velocity = direction * GetMultipliedSpeedIfRunning();
-            Vector3 moveAmount = velocity * Time.deltaTime;
+            Vector3 velocity = direction * GetModifiedSpeed(vertical);
+            Vector3 moveAmount = velocity * deltaTime;
 
             return moveAmount;
         }
 
-        private float GetMultipliedSpeedIfRunning()
+        private float GetModifiedSpeed(float velocity)
         {
-            if (Input.GetKey(KeyCode.S)) return _speed;
-
-            if (Input.GetKey(KeyCode.LeftShift))
+            if (velocity >= 1)
                 return _speed * 2;
+
+            if (velocity < 0)
+                return _speed / 2;
 
             return _speed;
         }

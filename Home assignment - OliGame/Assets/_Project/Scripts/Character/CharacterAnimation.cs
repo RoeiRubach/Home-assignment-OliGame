@@ -7,7 +7,6 @@ namespace HomeAssignment
         private Animator _animator;
 
         private string _verticalParameter = "Vertical velocity";
-        private string _horizontalParameter = "Horizontal velocity";
         private int _isCrouchID;
 
         public CharacterAnimation(Animator animator)
@@ -16,7 +15,7 @@ namespace HomeAssignment
             _isCrouchID = Animator.StringToHash("IsCrouch");
         }
 
-        public void Handle(float horizontal, float vertical)
+        public void Handle(float vertical)
         {
             if (Input.GetKey(KeyCode.LeftControl))
             {
@@ -25,19 +24,7 @@ namespace HomeAssignment
             }
 
             _animator.SetBool(_isCrouchID, false);
-            HandleLocomotion(horizontal, vertical);
-        }
-
-        private void HandleLocomotion(float horizontal, float vertical)
-        {
-            HandleHorizontalWalking(horizontal);
             HandleVerticalWalking(vertical);
-        }
-
-        private void HandleHorizontalWalking(float horizontal)
-        {
-            _animator.SetFloat(_horizontalParameter, horizontal);
-            HandleRunning(_horizontalParameter, horizontal * 2);
         }
 
         private void HandleVerticalWalking(float vertical)
