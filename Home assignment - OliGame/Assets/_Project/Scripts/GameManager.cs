@@ -3,10 +3,19 @@ using UnityEngine.SceneManagement;
 
 namespace HomeAssignment
 {
+    public enum ScenesNames
+    {
+        MainMenu,
+        UserInterface,
+        TestScene,
+        House
+    }
+
     public class GameManager : MonoBehaviour
     {
         public static bool AreEffectsOn;
         public static float GettingHitCooldown = 2.3f;
+        public static bool IsDoorInteraction;
         public static bool IsInputDisable;
         [SerializeField] private bool _areEffectOn;
 
@@ -14,6 +23,17 @@ namespace HomeAssignment
         {
             LoadUserInterface();
             AreEffectsOn = _areEffectOn;
+        }
+
+        private void Start() => DoorController.OnDoorInteraction += LoadDoorIneractionScene;
+
+        private void Update()
+        {
+            if (Input.GetKeyDown(ControlsManager.CrouchKey))
+                IsInputDisable = true;
+
+            if (Input.GetKeyUp(ControlsManager.CrouchKey))
+                IsInputDisable = false;
         }
 
         private void LoadUserInterface()
@@ -26,13 +46,16 @@ namespace HomeAssignment
             }
         }
 
-        private void Update()
+        private void LoadDoorIneractionScene(string sceneName)
         {
-            if (Input.GetKeyDown(ControlsManager.CrouchKey))
-                IsInputDisable = true;
-
-            if (Input.GetKeyUp(ControlsManager.CrouchKey))
-                IsInputDisable = false;
+            SceneManager.LoadScene(sceneName);
         }
+
+        private void OnDisable()
+        {
+            DoorController.OnDoorInteraction -= LoadDoorIneractionScene;
+            IsInputDisable = false;
+            IsDoorInteraction = false;
+    }
     }
 }

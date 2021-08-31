@@ -8,12 +8,40 @@ namespace HomeAssignment
     {
         private Character _character;
         private Transform _transform;
+        private IInteractable _nearestGameObject;
 
         private void Awake() => _character = new Character(GetComponentInChildren<Animator>(), GetComponentInChildren<CharacterRotation>());
 
         private void Start() => _transform = transform;
 
         private void Update()
+        {
+            if (GameManager.IsDoorInteraction) return;
+
+            HandleInteractions();
+            HandleCharacterControl();
+        }
+
+        private void OnTriggerStay(Collider other)
+        {
+            if (other.TryGetComponent(out IInteractable interactable))
+            {
+                _nearestGameObject = interactable;
+                return;
+            }
+
+            _nearestGameObject = null;
+        }
+
+        private void HandleInteractions()
+        {
+            if (_nearestGameObject == null) return;
+
+            if (Input.GetButtonDown("Jump"))
+                _nearestGameObject.Interact();
+        }
+
+        private void HandleCharacterControl()
         {
             _character.SetAnimations();
             _transform.rotation = _character.GetRotation();
