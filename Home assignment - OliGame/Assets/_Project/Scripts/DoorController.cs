@@ -11,16 +11,17 @@ namespace HomeAssignment
 
         [SerializeField] private ScenesNames _sceneName;
         private Animation _animation;
-        private bool isInteracted;
+
+        public bool IsInteracted { get; private set; }
 
         private void Start() => _animation = GetComponent<Animation>();
 
         public void Interact()
         {
-            if (isInteracted) return;
+            if (IsInteracted) return;
 
             GameManager.IsDoorInteraction = true;
-            isInteracted = true;
+            IsInteracted = true;
             _animation.Play();
             StartCoroutine(DoorFullyOpen());
         }
@@ -33,6 +34,6 @@ namespace HomeAssignment
             OnDoorInteraction?.Invoke(_sceneName.ToString());
         }
 
-        private void OnDisable() => isInteracted = false;
+        private void OnDisable() => IsInteracted = false;
     }
 }

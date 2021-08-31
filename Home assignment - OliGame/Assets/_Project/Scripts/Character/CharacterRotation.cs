@@ -5,7 +5,7 @@ namespace HomeAssignment
     public class CharacterRotation : MonoBehaviour
     {
         public Quaternion BasedRotation { get; private set; }
-        private float _turnPower = .7f;
+        private float _turnPower = .4f;
         private Transform _transform;
 
         private void Start() => _transform = transform;

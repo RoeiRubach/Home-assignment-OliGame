@@ -19,14 +19,13 @@ namespace HomeAssignment
         {
             _healthPoints = (byte)Mathf.Clamp(_healthPoints - damageAmount, 0, _maxHealthPoints);
 
-            if(_healthPoints == byte.MinValue)
+            OnGettingDamage?.Invoke(_maxHealthPoints);
+
+            if (_healthPoints == byte.MinValue)
             {
                 // This doesn't do anything.. Just for the general idea
                 OnGameOver?.Invoke();
-                return;
             }
-
-            OnGettingDamage?.Invoke(_maxHealthPoints);
         }
 
         public void SetHealthToMax() => _healthPoints = _maxHealthPoints;

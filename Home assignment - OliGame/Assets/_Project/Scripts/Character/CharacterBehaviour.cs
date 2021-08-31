@@ -29,8 +29,12 @@ namespace HomeAssignment
                 _nearestGameObject = interactable;
                 return;
             }
+        }
 
-            _nearestGameObject = null;
+        private void OnTriggerExit(Collider other)
+        {
+            if (_nearestGameObject != null)
+                _nearestGameObject = null;
         }
 
         private void HandleInteractions()
@@ -38,7 +42,10 @@ namespace HomeAssignment
             if (_nearestGameObject == null) return;
 
             if (Input.GetButtonDown("Jump"))
+            {
                 _nearestGameObject.Interact();
+                _nearestGameObject = null;
+            }
         }
 
         private void HandleCharacterControl()
