@@ -26,6 +26,7 @@ namespace HomeAssignment
         {
             if (other.TryGetComponent(out IInteractable interactable))
             {
+                UIManager.InteractionPopUp.SetActive(true);
                 _nearestGameObject = interactable;
                 return;
             }
@@ -34,14 +35,17 @@ namespace HomeAssignment
         private void OnTriggerExit(Collider other)
         {
             if (_nearestGameObject != null)
+            {
+                UIManager.InteractionPopUp.SetActive(false);
                 _nearestGameObject = null;
+            }
         }
 
         private void HandleInteractions()
         {
             if (_nearestGameObject == null) return;
 
-            if (Input.GetButtonDown("Jump"))
+            if (Input.GetKeyDown(ControlsManager.Interaction))
             {
                 _nearestGameObject.Interact();
                 _nearestGameObject = null;
