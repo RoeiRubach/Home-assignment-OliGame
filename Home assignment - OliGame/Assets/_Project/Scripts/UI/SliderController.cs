@@ -1,4 +1,3 @@
-using System.Collections;
 using DG.Tweening;
 using UnityEngine;
 using UnityEngine.UI;
@@ -16,15 +15,14 @@ namespace HomeAssignment
             HealthManager.OnGettingDamage += DecreaseValue;
         }
 
-        public void RestoreHealthViaButton()
-        {
-            _slider.DOValue(_slider.maxValue, .5f);
-        }
+        public void RestoreHealthViaButton() => _slider.DOValue(_slider.maxValue, duration:.5f);
 
         private void DecreaseValue(byte maxHealth)
         {
             float decreasingAmount = Mathf.Clamp(_slider.maxValue / maxHealth, 0, _slider.maxValue);
             _slider.DOValue(_slider.value - decreasingAmount, .2f);
         }
+
+        private void OnDisable() => HealthManager.OnGettingDamage -= DecreaseValue;
     }
 }

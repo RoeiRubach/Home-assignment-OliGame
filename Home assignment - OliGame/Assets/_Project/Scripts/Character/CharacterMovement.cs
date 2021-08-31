@@ -5,7 +5,6 @@ namespace HomeAssignment
     public class CharacterMovement
     {
         private float _speed;
-        private float _turnPower;
 
         public CharacterMovement(float speed) => _speed = speed;
 

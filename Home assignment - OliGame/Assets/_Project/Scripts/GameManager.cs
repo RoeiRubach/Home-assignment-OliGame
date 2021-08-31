@@ -5,12 +5,16 @@ namespace HomeAssignment
 {
     public class GameManager : MonoBehaviour
     {
+        public static bool AreEffectsOn;
         public static float GettingHitCooldown = 2.3f;
         public static bool IsInputDisable;
+        [SerializeField] private bool _areEffectOn;
 
-        private void Awake() => LoadUserInterface();
-
-        private void Start() => IsInputDisable = false;
+        private void Awake()
+        {
+            LoadUserInterface();
+            AreEffectsOn = _areEffectOn;
+        }
 
         private void LoadUserInterface()
         {

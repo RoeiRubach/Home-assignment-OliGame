@@ -31,32 +31,6 @@ namespace HomeAssignment
                 .OnComplete(() => GetComponent<BoxCollider>().isTrigger = true);
         }
 
-        private Tween Scale(Vector3 endValue, float duration)
-        {
-            return transform.DOScale(endValue, duration);
-        }
-
-        private IEnumerator LaunchSpike()
-        {
-            GetComponent<BoxCollider>().isTrigger = false;
-            while(transform.localScale.z < 20)
-            {
-                transform.localScale += Vector3.forward * 2f;
-                yield return null;
-            }
-
-            float timeToReachTarget = GameManager.GettingHitCooldown;
-            Vector3 currentScale = transform.localScale;
-            var time = 0f;
-            while (time < 1)
-            {
-                time += Time.deltaTime / timeToReachTarget;
-                transform.localScale = Vector3.Lerp(currentScale, _startingScale, time);
-                yield return null;
-            }
-
-            transform.localScale = _startingScale;
-            GetComponent<BoxCollider>().isTrigger = true;
-        }
+        private Tween Scale(Vector3 endValue, float duration) => transform.DOScale(endValue, duration);
     }
 }

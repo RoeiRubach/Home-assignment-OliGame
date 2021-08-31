@@ -6,32 +6,20 @@ namespace HomeAssignment
     [RequireComponent(typeof(BoxCollider))]
     public class CharacterBehaviour : MonoBehaviour, IDamageable
     {
-        [SerializeField] private Transform _cameraTarget;
         private Character _character;
+        private Transform _transform;
 
-        private void Awake()
-        {
-            _character = new Character(GetComponentInChildren<Animator>());
-        }
+        private void Awake() => _character = new Character(GetComponentInChildren<Animator>(), GetComponentInChildren<CharacterRotation>());
+
+        private void Start() => _transform = transform;
 
         private void Update()
         {
             _character.SetAnimations();
-            SetRotation();
+            _transform.rotation = _character.GetRotation();
 
             if (GameManager.IsInputDisable) return;
             transform.Translate(_character.GetMoveAmount());
-        }
-
-        private void SetRotation()
-        {
-            Quaternion axisValue = Quaternion.AngleAxis(Input.GetAxis("Horizontal") * _character.TurnPower, Vector3.up);
-            _cameraTarget.transform.rotation *= axisValue;
-            Quaternion SetRotationBasedLookTransform = Quaternion.Euler(0, _cameraTarget.transform.rotation.eulerAngles.y, 0);
-            Vector3 resetYRotation = new Vector3(_cameraTarget.transform.localEulerAngles.x, 0, 0);
-            _cameraTarget.transform.localEulerAngles = resetYRotation;
-
-            transform.rotation = SetRotationBasedLookTransform;
         }
 
         public void TakeDamage(byte amount)
@@ -47,7 +35,6 @@ namespace HomeAssignment
         {
             yield return new WaitForSeconds(2);
 
-            print("can take damage again");
             _character.SetDamagedActive();
         }
     }

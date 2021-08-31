@@ -209,7 +209,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _panel: {fileID: 613309575}
-  _alphaValue: 145
+  _alphaValue: 140
 --- !u!1 &196373989
 GameObject:
   m_ObjectHideFlags: 0
