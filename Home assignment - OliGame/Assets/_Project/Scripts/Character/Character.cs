@@ -5,17 +5,18 @@ namespace HomeAssignment
     public class Character
     {
         public float TurnPower { get; private set; } 
+        public bool CanDamaged { get; private set; }
 
         private readonly CharacterMovement _movement;
         private readonly CharacterAnimation _animation;
         private readonly HealthManager _health;
-
         private float _moveSpeed = 2f;
 
         public Character(Animator animator)
         {
-            TurnPower = .5f;
-            _health = new HealthManager();
+            CanDamaged = true;
+            TurnPower = .7f;
+            _health = new HealthManager(3);
             _movement = new CharacterMovement(_moveSpeed);
             _animation = new CharacterAnimation(animator);
         }
@@ -26,6 +27,9 @@ namespace HomeAssignment
         public void TakeDamage(byte amount)
         {
             _health.ReduceHealth(amount);
+            CanDamaged = false;
         }
+
+        public void SetDamagedActive() => CanDamaged = true;
     }
 }

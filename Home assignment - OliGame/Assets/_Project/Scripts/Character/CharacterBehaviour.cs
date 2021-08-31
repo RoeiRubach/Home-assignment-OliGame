@@ -1,7 +1,9 @@
+using System.Collections;
 using UnityEngine;
 
 namespace HomeAssignment
 {
+    [RequireComponent(typeof(BoxCollider))]
     public class CharacterBehaviour : MonoBehaviour, IDamageable
     {
         [SerializeField] private Transform _cameraTarget;
@@ -32,9 +34,21 @@ namespace HomeAssignment
             transform.rotation = SetRotationBasedLookTransform;
         }
 
-        public void Damage()
+        public void TakeDamage(byte amount)
         {
-            _character.TakeDamage(1);
+            if (_character.CanDamaged)
+            {
+                _character.TakeDamage(amount);
+                StartCoroutine(DamageableCooldown());
+            }
+        }
+
+        public IEnumerator DamageableCooldown()
+        {
+            yield return new WaitForSeconds(2);
+
+            print("can take damage again");
+            _character.SetDamagedActive();
         }
     }
 }
