@@ -5,7 +5,12 @@ namespace HomeAssignment
 {
     public class GameManager : MonoBehaviour
     {
+        public static float GettingHitCooldown = 2.3f;
+        public static bool IsInputDisable;
+
         private void Awake() => LoadUserInterface();
+
+        private void Start() => IsInputDisable = false;
 
         private void LoadUserInterface()
         {
@@ -15,6 +20,15 @@ namespace HomeAssignment
                 SceneManager.LoadSceneAsync(settingsSceneName, LoadSceneMode.Additive);
                 return;
             }
+        }
+
+        private void Update()
+        {
+            if (Input.GetKeyDown(ControlsManager.CrouchKey))
+                IsInputDisable = true;
+
+            if (Input.GetKeyUp(ControlsManager.CrouchKey))
+                IsInputDisable = false;
         }
     }
 }

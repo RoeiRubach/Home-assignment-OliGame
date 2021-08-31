@@ -17,10 +17,10 @@ namespace HomeAssignment
         private void Update()
         {
             _character.SetAnimations();
-
-            if (Input.GetKey(KeyCode.LeftControl)) return;
-            transform.Translate(_character.GetMoveAmount());
             SetRotation();
+
+            if (GameManager.IsInputDisable) return;
+            transform.Translate(_character.GetMoveAmount());
         }
 
         private void SetRotation()

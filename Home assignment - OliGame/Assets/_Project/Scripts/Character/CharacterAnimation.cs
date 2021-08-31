@@ -17,7 +17,7 @@ namespace HomeAssignment
 
         public void Handle(float vertical)
         {
-            if (Input.GetKey(KeyCode.LeftControl))
+            if (Input.GetKey(ControlsManager.CrouchKey))
             {
                 _animator.SetBool(_isCrouchID, true);
                 return;
