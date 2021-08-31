@@ -654,3 +654,512 @@ Received Import Request.
 Start importing Assets/_Project/Art/3D models/Mixamo 3D character/passive_marker_man.fbx using Guid(aaf2a9ca559e4864cb5dcbc88179a10e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48600d750f4f7a21ec33ffb1cb82ffeb') in 0.095183 seconds 
   Import took 0.101390 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 182.059758 seconds.
+  path: Assets/_Project/Art/3D models/door
+  artifactKey: Guid(ed6d1660294fc7547a9f75a662c9dbd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/3D models/door using Guid(ed6d1660294fc7547a9f75a662c9dbd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b19b5578c492839bd3df04536251a4e1') in 0.009095 seconds 
+  Import took 0.013696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.896168 seconds.
+  path: Assets/_Project/Art/3D models/door/source
+  artifactKey: Guid(c4f3eba1d1f78034aa90bb65adce88b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/3D models/door/source using Guid(c4f3eba1d1f78034aa90bb65adce88b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13c61ef296f6b0686d8cec1345d43c74') in 0.007744 seconds 
+  Import took 0.012683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.750778 seconds.
+  path: Assets/_Project/Art/3D models/door/source/Door.fbx
+  artifactKey: Guid(3d10b02e4644e50448ef2d920fa0c504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/3D models/door/source/Door.fbx using Guid(3d10b02e4644e50448ef2d920fa0c504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60ef153e5cf9398aa7e6813920e1fb7b') in 0.046064 seconds 
+  Import took 0.049363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.435833 seconds.
+  path: Assets/_Project/Art/3D models/door/textures
+  artifactKey: Guid(038b810ddbefb694089327e7b18e53d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/3D models/door/textures using Guid(038b810ddbefb694089327e7b18e53d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fec27cc3af94d3ce196ed340889951ac') in 0.006988 seconds 
+  Import took 0.011048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 270.194090 seconds.
+  path: Assets/_Project/Art/3D models/door-wood
+  artifactKey: Guid(e2a67fba98d955442ac737d3312c18ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/3D models/door-wood using Guid(e2a67fba98d955442ac737d3312c18ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10d9e27ac37fd2fb1af64a77f9727154') in 0.007834 seconds 
+  Import took 0.013321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.667972 seconds.
+  path: Assets/_Project/Art/3D models/door-wood/source
+  artifactKey: Guid(a24e0feed08e37e4aacca84e1ce874f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/3D models/door-wood/source using Guid(a24e0feed08e37e4aacca84e1ce874f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '496493db7c5da8c75092a5bace8a0a8b') in 0.002942 seconds 
+  Import took 0.007672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001497 seconds.
+  path: Assets/_Project/Art/3D models/door-wood/source
+  artifactKey: Guid(a24e0feed08e37e4aacca84e1ce874f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/3D models/door-wood/source using Guid(a24e0feed08e37e4aacca84e1ce874f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '496493db7c5da8c75092a5bace8a0a8b') in 0.003530 seconds 
+  Import took 0.008755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.868801 seconds.
+  path: Assets/_Project/Art/3D models/door-wood/source/woodenDoor
+  artifactKey: Guid(7b6d016fadf818c4f8beb73cf3c38e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/3D models/door-wood/source/woodenDoor using Guid(7b6d016fadf818c4f8beb73cf3c38e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '061f5733fb1d600adaaceb6133d3348b') in 0.007208 seconds 
+  Import took 0.011559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.030504 seconds.
+  path: Assets/_Project/Art/3D models/door-wood/source/woodenDoor/image_d.png
+  artifactKey: Guid(ec3e6549c23fc9f42bbab62372266e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/3D models/door-wood/source/woodenDoor/image_d.png using Guid(ec3e6549c23fc9f42bbab62372266e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aed9d5f39d9fc95d394551b080d23675') in 0.026294 seconds 
+  Import took 0.030801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036961 seconds.
+  path: Assets/_Project/Art/3D models/door-wood/source/woodenDoor/image_d.png
+  artifactKey: Guid(ec3e6549c23fc9f42bbab62372266e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/3D models/door-wood/source/woodenDoor/image_d.png using Guid(ec3e6549c23fc9f42bbab62372266e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aed9d5f39d9fc95d394551b080d23675') in 0.011144 seconds 
+  Import took 0.015390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.473498 seconds.
+  path: Assets/_Project/Art/3D models/door-wood/source/woodenDoor/image_h.png
+  artifactKey: Guid(baffabc64fe56de4cbebdbef2d14d9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/3D models/door-wood/source/woodenDoor/image_h.png using Guid(baffabc64fe56de4cbebdbef2d14d9a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ec9176fc7483db5a09bfd727cd41682') in 0.012109 seconds 
+  Import took 0.015664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.384858 seconds.
+  path: Assets/_Project/Art/3D models/door-wood/source/woodenDoor/image_n.png
+  artifactKey: Guid(01bc665ca6127cd459359cd4d8308be9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/3D models/door-wood/source/woodenDoor/image_n.png using Guid(01bc665ca6127cd459359cd4d8308be9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f78feccb396ed96c39ef9c03dda986e') in 0.012231 seconds 
+  Import took 0.016479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001839 seconds.
+  path: Assets/_Project/Art/3D models/door-wood/source/woodenDoor/image_n.png
+  artifactKey: Guid(01bc665ca6127cd459359cd4d8308be9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/3D models/door-wood/source/woodenDoor/image_n.png using Guid(01bc665ca6127cd459359cd4d8308be9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f78feccb396ed96c39ef9c03dda986e') in 0.008215 seconds 
+  Import took 0.012683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.561095 seconds.
+  path: Assets/_Project/Art/3D models/door-wood/source/woodenDoor/image_o.png
+  artifactKey: Guid(7cfccbb9a81ed4241ad627073c003f9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/3D models/door-wood/source/woodenDoor/image_o.png using Guid(7cfccbb9a81ed4241ad627073c003f9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22fcf7f50f95f3307d4ffaf6efb4c5e8') in 0.012566 seconds 
+  Import took 0.016617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001785 seconds.
+  path: Assets/_Project/Art/3D models/door-wood/source/woodenDoor/image_o.png
+  artifactKey: Guid(7cfccbb9a81ed4241ad627073c003f9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/3D models/door-wood/source/woodenDoor/image_o.png using Guid(7cfccbb9a81ed4241ad627073c003f9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22fcf7f50f95f3307d4ffaf6efb4c5e8') in 0.012368 seconds 
+  Import took 0.016220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.280876 seconds.
+  path: Assets/_Project/Art/3D models/door-wood/source/woodenDoor/image_r.png
+  artifactKey: Guid(374302c301f0c694e9e4982934fa3533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/3D models/door-wood/source/woodenDoor/image_r.png using Guid(374302c301f0c694e9e4982934fa3533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '827271f1eefbc1b9adfa599685aefd34') in 0.012050 seconds 
+  Import took 0.015317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002140 seconds.
+  path: Assets/_Project/Art/3D models/door-wood/source/woodenDoor/image_r.png
+  artifactKey: Guid(374302c301f0c694e9e4982934fa3533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/3D models/door-wood/source/woodenDoor/image_r.png using Guid(374302c301f0c694e9e4982934fa3533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '827271f1eefbc1b9adfa599685aefd34') in 0.008433 seconds 
+  Import took 0.012689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.343792 seconds.
+  path: Assets/_Project/Art/3D models/door-wood/source/woodenDoor/image_s.png
+  artifactKey: Guid(e1f539ad5113a424d95c1927cdf1e908) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/3D models/door-wood/source/woodenDoor/image_s.png using Guid(e1f539ad5113a424d95c1927cdf1e908) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36d9039da90fc9a5e2ded60c355a275b') in 0.020054 seconds 
+  Import took 0.024136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002173 seconds.
+  path: Assets/_Project/Art/3D models/door-wood/source/woodenDoor/image_s.png
+  artifactKey: Guid(e1f539ad5113a424d95c1927cdf1e908) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/3D models/door-wood/source/woodenDoor/image_s.png using Guid(e1f539ad5113a424d95c1927cdf1e908) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36d9039da90fc9a5e2ded60c355a275b') in 0.013915 seconds 
+  Import took 0.017882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.279484 seconds.
+  path: Assets/_Project/Art/3D models/door-wood/source/woodenDoor/LICENSE.txt
+  artifactKey: Guid(fcf2f45ebfa5fa54c853e75645838119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/3D models/door-wood/source/woodenDoor/LICENSE.txt using Guid(fcf2f45ebfa5fa54c853e75645838119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f5125a92390c42c45a5d0f778af96ab') in 0.016366 seconds 
+  Import took 0.019657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.334488 seconds.
+  path: Assets/_Project/Art/3D models/door-wood/source/woodenDoor/woodenDoor_01_v1_ANIM.fbx
+  artifactKey: Guid(8410f6f28d3ffc448bf198dad60f60cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/3D models/door-wood/source/woodenDoor/woodenDoor_01_v1_ANIM.fbx using Guid(8410f6f28d3ffc448bf198dad60f60cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '276593d13fae0a7ad67cd9135d99815f') in 0.055999 seconds 
+  Import took 0.059658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 124.417504 seconds.
+  path: Assets/_Project/Art/Animatrions/Animators/DoorAnimator.controller
+  artifactKey: Guid(984ecde50a3cac249a8f2e1d22969528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Animators/DoorAnimator.controller using Guid(984ecde50a3cac249a8f2e1d22969528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '507276ae5fa5ee51a48800cd4d32d04a') in 0.010960 seconds 
+  Import took 0.016068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 464.030871 seconds.
+  path: Assets/_Project/Art/Animatrions/Door
+  artifactKey: Guid(ad8b9b7a944ffa44ca5856d1126005c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Door using Guid(ad8b9b7a944ffa44ca5856d1126005c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd59765d5b44723f4eca7477d2b82f96') in 0.008882 seconds 
+  Import took 0.012975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001923 seconds.
+  path: Assets/_Project/Art/Animatrions/Door
+  artifactKey: Guid(ad8b9b7a944ffa44ca5856d1126005c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Door using Guid(ad8b9b7a944ffa44ca5856d1126005c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd59765d5b44723f4eca7477d2b82f96') in 0.002859 seconds 
+  Import took 0.008049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.334036 seconds.
+  path: Assets/_Project/Art/3D models/door-wood/source/woodenDoor/DoorBone_ArmatureAction.anim
+  artifactKey: Guid(1c276becf48411d44b120adbdd8c6a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/3D models/door-wood/source/woodenDoor/DoorBone_ArmatureAction.anim using Guid(1c276becf48411d44b120adbdd8c6a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41cfa6f4e6e324fd359d5aa054f84f85') in 0.012320 seconds 
+  Import took 0.016220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000546 seconds.
+  path: Assets/_Project/Art/3D models/door-wood/source/woodenDoor/DoorBone_ArmatureAction.anim
+  artifactKey: Guid(1c276becf48411d44b120adbdd8c6a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/3D models/door-wood/source/woodenDoor/DoorBone_ArmatureAction.anim using Guid(1c276becf48411d44b120adbdd8c6a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41cfa6f4e6e324fd359d5aa054f84f85') in 0.003760 seconds 
+  Import took 0.008022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.479459 seconds.
+  path: Assets/_Project/Art/3D models/door-wood/source/woodenDoor/DoorBone_ArmatureAction 1.anim
+  artifactKey: Guid(777982eeb0570394aa2adc0a0b448dd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/3D models/door-wood/source/woodenDoor/DoorBone_ArmatureAction 1.anim using Guid(777982eeb0570394aa2adc0a0b448dd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79be7797bf03c36e2effe92866cac9a0') in 0.007089 seconds 
+  Import took 0.012349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.454809 seconds.
+  path: Assets/_Project/Art/3D models/door-wood/source/woodenDoor/Open.anim
+  artifactKey: Guid(1c276becf48411d44b120adbdd8c6a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/3D models/door-wood/source/woodenDoor/Open.anim using Guid(1c276becf48411d44b120adbdd8c6a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e7c16581e667e5783f4747dff7ad66f') in 0.007283 seconds 
+  Import took 0.012597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.455355 seconds.
+  path: Assets/_Project/Art/3D models/door-wood/source/woodenDoor/Close.anim
+  artifactKey: Guid(777982eeb0570394aa2adc0a0b448dd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/3D models/door-wood/source/woodenDoor/Close.anim using Guid(777982eeb0570394aa2adc0a0b448dd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '990e687d11eecdb11e82dbd8c6e1cee0') in 0.007683 seconds 
+  Import took 0.011846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.743580 seconds.
+  path: Assets/_Project/Art/3D models/door-wood/source/woodenDoor/Open 1.anim
+  artifactKey: Guid(fce987bc8947262468423e0c7fdce729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/3D models/door-wood/source/woodenDoor/Open 1.anim using Guid(fce987bc8947262468423e0c7fdce729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '721a452e51a8fe49c352df7f50867025') in 0.008368 seconds 
+  Import took 0.012571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002263 seconds.
+  path: Assets/_Project/Art/3D models/door-wood/source/woodenDoor/Open 1.anim
+  artifactKey: Guid(fce987bc8947262468423e0c7fdce729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/3D models/door-wood/source/woodenDoor/Open 1.anim using Guid(fce987bc8947262468423e0c7fdce729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '721a452e51a8fe49c352df7f50867025') in 0.002861 seconds 
+  Import took 0.006639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 133.149722 seconds.
+  path: Assets/_Project/Art/Animatrions/Door/Open.anim
+  artifactKey: Guid(1c276becf48411d44b120adbdd8c6a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Door/Open.anim using Guid(1c276becf48411d44b120adbdd8c6a46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '704ba21e4895f68c44e0ed5d3142fb68') in 0.003792 seconds 
+  Import took 0.008768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.045613 seconds.
+  path: Assets/_Project/Prefabs/Wooden door.prefab
+  artifactKey: Guid(af0ae040081d4b84098a36b86b874135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Prefabs/Wooden door.prefab using Guid(af0ae040081d4b84098a36b86b874135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9853f8b130f011e85dc8bac3b5991ac') in 0.031398 seconds 
+  Import took 0.035151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008986 seconds.
+  path: Assets/_Project/Prefabs/Wooden door.prefab
+  artifactKey: Guid(af0ae040081d4b84098a36b86b874135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Prefabs/Wooden door.prefab using Guid(af0ae040081d4b84098a36b86b874135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9853f8b130f011e85dc8bac3b5991ac') in 0.011994 seconds 
+  Import took 0.016248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.791106 seconds.
+  path: Assets/_Project/Art/Animatrions/Animators/CharacterAnimator.controller
+  artifactKey: Guid(f6985e89b35114d42bf703408c15766a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Animators/CharacterAnimator.controller using Guid(f6985e89b35114d42bf703408c15766a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd02a684e88f79b3155aa6e6e99ca0455') in 0.027776 seconds 
+  Import took 0.032158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.468070 seconds.
+  path: Assets/_Project/Art/Animatrions/Animators/DoorAnimator.controller
+  artifactKey: Guid(984ecde50a3cac249a8f2e1d22969528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Art/Animatrions/Animators/DoorAnimator.controller using Guid(984ecde50a3cac249a8f2e1d22969528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '371cd0dc183da899af3805045949a39f') in 0.008176 seconds 
+  Import took 0.012459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.048820 seconds.
+  path: Assets/_Project/Scripts/DoorController.cs
+  artifactKey: Guid(29c27231c6081454c8d77d15dcd9dbed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Scripts/DoorController.cs using Guid(29c27231c6081454c8d77d15dcd9dbed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '794946628bc15fff899560643f481567') in 0.008494 seconds 
+  Import took 0.014253 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004653 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.212 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1937 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.6 MB.
+System memory in use after: 107.7 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2475.
+Total: 2.874200 ms (FindLiveObjects: 0.187800 ms CreateObjectMapping: 0.060900 ms MarkObjects: 2.574600 ms  DeleteObjects: 0.050100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 55.209433 seconds.
+  path: Assets/_Project/Scripts/DoorController.cs
+  artifactKey: Guid(29c27231c6081454c8d77d15dcd9dbed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Scripts/DoorController.cs using Guid(29c27231c6081454c8d77d15dcd9dbed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0368625d78b07f920893d917d65d24cf') in 0.008321 seconds 
+  Import took 0.012048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003610 seconds.
+  path: Assets/_Project/Scripts/DoorController.cs
+  artifactKey: Guid(29c27231c6081454c8d77d15dcd9dbed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Scripts/DoorController.cs using Guid(29c27231c6081454c8d77d15dcd9dbed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0368625d78b07f920893d917d65d24cf') in 0.003836 seconds 
+  Import took 0.007153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 122.818659 seconds.
+  path: Assets/_Project/Scripts/DoorController.cs
+  artifactKey: Guid(29c27231c6081454c8d77d15dcd9dbed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Scripts/DoorController.cs using Guid(29c27231c6081454c8d77d15dcd9dbed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d2672a7ee5623584755592c26ce31e7') in 0.003796 seconds 
+  Import took 0.007550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001241 seconds.
+  path: Assets/_Project/Scripts/DoorController.cs
+  artifactKey: Guid(29c27231c6081454c8d77d15dcd9dbed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Scripts/DoorController.cs using Guid(29c27231c6081454c8d77d15dcd9dbed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d2672a7ee5623584755592c26ce31e7') in 0.003257 seconds 
+  Import took 0.006647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.087169 seconds.
+  path: Assets/_Project/Scripts/DoorController.cs
+  artifactKey: Guid(29c27231c6081454c8d77d15dcd9dbed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Scripts/DoorController.cs using Guid(29c27231c6081454c8d77d15dcd9dbed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45d9b5ed41ec6e8d5412d909dd1ca31c') in 0.003985 seconds 
+  Import took 0.008053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000840 seconds.
+  path: Assets/_Project/Scripts/DoorController.cs
+  artifactKey: Guid(29c27231c6081454c8d77d15dcd9dbed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Scripts/DoorController.cs using Guid(29c27231c6081454c8d77d15dcd9dbed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45d9b5ed41ec6e8d5412d909dd1ca31c') in 0.003477 seconds 
+  Import took 0.007027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.265059 seconds.
+  path: Assets/_Project/Scripts/DoorController.cs
+  artifactKey: Guid(29c27231c6081454c8d77d15dcd9dbed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Scripts/DoorController.cs using Guid(29c27231c6081454c8d77d15dcd9dbed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4e3ad422d94d5c02cec3893f017c8f8') in 0.003324 seconds 
+  Import took 0.006881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001751 seconds.
+  path: Assets/_Project/Scripts/DoorController.cs
+  artifactKey: Guid(29c27231c6081454c8d77d15dcd9dbed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Scripts/DoorController.cs using Guid(29c27231c6081454c8d77d15dcd9dbed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4e3ad422d94d5c02cec3893f017c8f8') in 0.002997 seconds 
+  Import took 0.006612 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004516 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.229 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1937 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.6 MB.
+System memory in use after: 107.7 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2477.
+Total: 3.310400 ms (FindLiveObjects: 0.181800 ms CreateObjectMapping: 0.055200 ms MarkObjects: 3.008600 ms  DeleteObjects: 0.064000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 50.155106 seconds.
+  path: Assets/_Project/Scripts/Interfaces/IInteractable.cs
+  artifactKey: Guid(ebc56905b16688d4a977025e8e1ca97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Scripts/Interfaces/IInteractable.cs using Guid(ebc56905b16688d4a977025e8e1ca97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f802d00f4401847d4728051d334783c9') in 0.010876 seconds 
+  Import took 0.016345 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004514 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.255 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1938 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.6 MB.
+System memory in use after: 107.8 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2480.
+Total: 3.009300 ms (FindLiveObjects: 0.259700 ms CreateObjectMapping: 0.103000 ms MarkObjects: 2.623300 ms  DeleteObjects: 0.022200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 30.350878 seconds.
+  path: Assets/_Project/Scripts/Interfaces/IInteractable.cs
+  artifactKey: Guid(ebc56905b16688d4a977025e8e1ca97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Scripts/Interfaces/IInteractable.cs using Guid(ebc56905b16688d4a977025e8e1ca97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67b1b0b3d5dbc5cae4211f754da3e9c4') in 0.006845 seconds 
+  Import took 0.011416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.072239 seconds.
+  path: Assets/_Project/Scripts/Interfaces/IInteractable.cs
+  artifactKey: Guid(ebc56905b16688d4a977025e8e1ca97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Scripts/Interfaces/IInteractable.cs using Guid(ebc56905b16688d4a977025e8e1ca97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67b1b0b3d5dbc5cae4211f754da3e9c4') in 0.003265 seconds 
+  Import took 0.008067 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004384 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.240 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1938 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.6 MB.
+System memory in use after: 107.8 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2482.
+Total: 4.065400 ms (FindLiveObjects: 0.195200 ms CreateObjectMapping: 0.058800 ms MarkObjects: 3.787400 ms  DeleteObjects: 0.023000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
